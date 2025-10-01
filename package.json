@@ -26,7 +26,7 @@
   },
   "dependencies": {
     "@netcracker/qubership-apihub-json-crawl": "1.0.4",
-    "@netcracker/qubership-apihub-api-unifier": "feature/oas-30-to-31-comparison"
+    "@netcracker/qubership-apihub-api-unifier": "feature-oas-30-to-31-comparison"
   },
   "devDependencies": {
     "@netcracker/qubership-apihub-npm-gitflow": "3.1.0",
